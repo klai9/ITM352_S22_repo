@@ -1,0 +1,34 @@
+body {
+    font-family:'Open Sans';
+    color:darkblue;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 950px;
+    background-color: ivory
+}
+h1, h2 {
+    font-family:'Oswald'
+}
+img {
+    float: left;
+}
+.IE {
+    float: left;
+    width: 300px
+}
+.Firefox {
+    float: left;
+    width: 300px;
+    padding-left: 20px
+}
+.Chrome {
+    float: left;
+    width: 300px;
+    padding-left: 20px
+}
+li {
+    display: inline;
+    margin: 50px
+}
